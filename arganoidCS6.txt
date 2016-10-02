@@ -1,0 +1,2 @@
+if (BrickSik.visible = false) and (BrickSik1.visible = false) and (BrickSik2.visible = false) and (BrickSik3.visible = false) and (BrickSik4.visible = false) and (BrickSik5.visible = false) and (BrickSik6.visible = false) and (BrickSik7.visible = false) and (BrickSik8.visible = false) and (BrickSik9.visible = false) and (BrickSik10.visible = false) and (BrickSik11.visible = false)
+			gotoAndStop(3);
